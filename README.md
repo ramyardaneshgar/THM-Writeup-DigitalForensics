@@ -1,4 +1,4 @@
-# THM-Writeup-DigitalForensics
+# DigitalForensics
 Log analysis, insider threat detection, and cron-based persistence investigation.
 
 # Background
