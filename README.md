@@ -1,7 +1,5 @@
 # THM-Writeup-DigitalForensics
-Writeup for TryHackMe "Disgruntled" Lab - security tools, commands used, and key lessons learned.
-
-https://tryhackme.com/r/room/disgruntled
+Log analysis, insider threat detection, and cron-based persistence investigation.
 
 # Background
 The "Disgrunteld" was an lab in digital forensics, focusing on identifying and investigating malicious activity on a compromised system. An employee was suspected of deploying a "logic bomb" or other malicious actions. My task was to analyze system logs, identify unauthorized changes, and track any suspicious activity to understand the scope of the compromise.
